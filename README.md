@@ -1,5 +1,5 @@
 
-#JamStack Demo Site
+#JamStack Demo Site 1
 
 Create a personal access token (https://github.com/settings/tokens) -> Generate new token
     Grant repo, workflow, and admin:public_key (read)
